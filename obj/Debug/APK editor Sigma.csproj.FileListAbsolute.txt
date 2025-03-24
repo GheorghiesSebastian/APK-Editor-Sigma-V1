@@ -1,0 +1,10 @@
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Debug\APK editor Sigma.csproj.AssemblyReference.cache
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Debug\APK_editor_Sigma.Form1.resources
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Debug\APK_editor_Sigma.Properties.Resources.resources
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Debug\APK editor Sigma.csproj.GenerateResource.cache
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Debug\APK editor Sigma.csproj.CoreCompileInputs.cache
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\APK editor Sigma.exe.config
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\APK editor Sigma.exe
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\APK editor Sigma.pdb
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Debug\APK editor Sigma.exe
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Debug\APK editor Sigma.pdb

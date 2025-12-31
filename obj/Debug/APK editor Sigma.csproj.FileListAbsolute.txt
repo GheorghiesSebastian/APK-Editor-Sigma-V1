@@ -1,0 +1,37 @@
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Debug\APK editor Sigma.csproj.AssemblyReference.cache
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\APK editor Sigma.exe.config
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\APK editor Sigma.exe.manifest
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\APK editor Sigma.application
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\APK editor Sigma.exe
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\APK editor Sigma.pdb
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Debug\APK_editor_Sigma.Properties.Resources.resources
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Debug\APK editor Sigma.csproj.GenerateResource.cache
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Debug\APK editor Sigma.csproj.CoreCompileInputs.cache
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Debug\APK editor Sigma.TrustInfo.xml
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Debug\APK editor Sigma.exe.manifest
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Debug\APK editor Sigma.application
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Debug\APK editor Sigma.exe
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Debug\APK editor Sigma.pdb
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Debug\APK_editor_Sigma.App.resources
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\axmlprinter.dll
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\axmlprinter.pdb
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\axmlprinter.xml
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Debug\APK edit.F45958F2.Up2Date
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\FSharp.Core.dll
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\FSharp.Core.xml
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Debug\APK_editor_Sigma.Manifest.resources
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Debug\APK_editor_Sigma.Settings.resources

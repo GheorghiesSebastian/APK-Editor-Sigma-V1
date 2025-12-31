@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>axmlprinter</name></assembly>
+<members>
+<member name="">
+
+</member>
+<member name="T:System.AssemblyVersionInformation">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="M:axmlprinter.AXMLPrinter.getXmlFromBytes(System.Byte[])">
+<summary>
+ Try to unpack axml
+
+ ## Parameters
+  - `axmlBytes` - bytes readed from AXML file
+</summary>
+</member>
+<member name="M:axmlprinter.AXMLPrinter.getXmlFromStream(System.IO.Stream)">
+<summary>
+ Try to unpack axml
+
+ ## Parameters
+  - `axmlStream` - stream of AXML bytes
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:axmlprinter.AXMLPrinter">
+<summary>
+ Documentation for AXMLPrinter
+
+ ## Example
+
+     use fs = File.OpenRead(&quot;/path/to/AndroidManifest.xml&quot;)
+     let xml: string = AXMLPrinter.getXmlFromStream fs
+     printfn &quot;%s&quot; xml
+
+</summary>
+</member>
+<member name="T:axmlprinter.Assembly">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:axmlprinter.Constants">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:axmlprinter.Option">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:axmlprinter.String">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:axmlprinter.XmlBeautifizer">
+
+</member>
+</members>
+</doc>

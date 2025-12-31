@@ -1,0 +1,15 @@
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Release\APK editor Sigma.exe.config
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Release\APK editor Sigma.exe
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Release\APK editor Sigma.pdb
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Release\APK editor Sigma.csproj.AssemblyReference.cache
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Release\APK_editor_Sigma.Form1.resources
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Release\APK_editor_Sigma.Properties.Resources.resources
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Release\APK editor Sigma.csproj.GenerateResource.cache
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Release\APK editor Sigma.csproj.CoreCompileInputs.cache
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Release\APK editor Sigma.exe
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Release\APK editor Sigma.pdb
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Release\APK editor Sigma.exe.manifest
+C:\Users\Sebi\source\repos\APK editor Sigma\bin\Release\APK editor Sigma.application
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Release\APK editor Sigma.TrustInfo.xml
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Release\APK editor Sigma.exe.manifest
+C:\Users\Sebi\source\repos\APK editor Sigma\obj\Release\APK editor Sigma.application

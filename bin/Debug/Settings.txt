@@ -1,0 +1,2 @@
+TXT_PATH: C:\Users\Sebi\Desktop\code.txt
+ANIME: false

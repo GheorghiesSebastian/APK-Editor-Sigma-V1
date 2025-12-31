@@ -7,14 +7,18 @@
       "RelativeMoniker": "D:0:0:{A9D987BF-1AE7-45CD-A76B-8F8D4C234B89}|APK editor Sigma.csproj|solutionrelative:app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{A9D987BF-1AE7-45CD-A76B-8F8D4C234B89}|APK editor Sigma.csproj|C:\\Users\\Sebi\\source\\repos\\APK editor Sigma\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A9D987BF-1AE7-45CD-A76B-8F8D4C234B89}|APK editor Sigma.csproj|solutionrelative:settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+=======
+>>>>>>> 5ed29d6e18a84676dfaa7559ac4811b33a4ae7b3
       "AbsoluteMoniker": "D:0:0:{A9D987BF-1AE7-45CD-A76B-8F8D4C234B89}|APK editor Sigma.csproj|C:\\Users\\Sebi\\source\\repos\\APK editor Sigma\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A9D987BF-1AE7-45CD-A76B-8F8D4C234B89}|APK editor Sigma.csproj|solutionrelative:app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{A9D987BF-1AE7-45CD-A76B-8F8D4C234B89}|APK editor Sigma.csproj|C:\\Users\\Sebi\\source\\repos\\APK editor Sigma\\settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9D987BF-1AE7-45CD-A76B-8F8D4C234B89}|APK editor Sigma.csproj|solutionrelative:settingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,6 +29,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A9D987BF-1AE7-45CD-A76B-8F8D4C234B89}|APK editor Sigma.csproj|C:\\Users\\Sebi\\source\\repos\\APK editor Sigma\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9D987BF-1AE7-45CD-A76B-8F8D4C234B89}|APK editor Sigma.csproj|solutionrelative:settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{A9D987BF-1AE7-45CD-A76B-8F8D4C234B89}|APK editor Sigma.csproj|C:\\Users\\Sebi\\source\\repos\\APK editor Sigma\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9D987BF-1AE7-45CD-A76B-8F8D4C234B89}|APK editor Sigma.csproj|solutionrelative:settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+>>>>>>> 5ed29d6e18a84676dfaa7559ac4811b33a4ae7b3
     }
   ],
   "DocumentGroupContainers": [
@@ -34,6 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -77,6 +86,11 @@
               "EditorCaption": " [Design]"
             },
             {
+=======
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+>>>>>>> 5ed29d6e18a84676dfaa7559ac4811b33a4ae7b3
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
@@ -86,10 +100,18 @@
             },
             {
               "$type": "Bookmark",
+<<<<<<< HEAD
+=======
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+>>>>>>> 5ed29d6e18a84676dfaa7559ac4811b33a4ae7b3
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
               "Title": "SettingsManager.cs",
               "DocumentMoniker": "C:\\Users\\Sebi\\source\\repos\\APK editor Sigma\\SettingsManager.cs",
@@ -99,10 +121,22 @@
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-31T13:36:10.427Z",
+=======
+              "DocumentIndex": 0,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\Sebi\\source\\repos\\APK editor Sigma\\App.cs",
+              "RelativeDocumentMoniker": "App.cs",
+              "ToolTip": "C:\\Users\\Sebi\\source\\repos\\APK editor Sigma\\App.cs*",
+              "RelativeToolTip": "App.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAqwCoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:49:25.283Z",
+>>>>>>> 5ed29d6e18a84676dfaa7559ac4811b33a4ae7b3
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 4,
               "Title": "Settings.txt",
               "DocumentMoniker": "C:\\Users\\Sebi\\source\\repos\\APK editor Sigma\\Settings.txt",
@@ -125,6 +159,27 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-31T13:10:25.888Z",
               "EditorCaption": ""
+=======
+              "DocumentIndex": 1,
+              "Title": "App.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Sebi\\source\\repos\\APK editor Sigma\\App.cs",
+              "RelativeDocumentMoniker": "App.cs",
+              "ToolTip": "C:\\Users\\Sebi\\source\\repos\\APK editor Sigma\\App.cs [Design]",
+              "RelativeToolTip": "App.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:56:10.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Settings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Sebi\\source\\repos\\APK editor Sigma\\Settings.cs",
+              "RelativeDocumentMoniker": "Settings.cs",
+              "ToolTip": "C:\\Users\\Sebi\\source\\repos\\APK editor Sigma\\Settings.cs [Design]",
+              "RelativeToolTip": "Settings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:55:55.532Z"
+>>>>>>> 5ed29d6e18a84676dfaa7559ac4811b33a4ae7b3
             }
           ]
         }

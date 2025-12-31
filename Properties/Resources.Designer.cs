@@ -63,6 +63,7 @@ namespace APK_editor_Sigma.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap _3872baeae3a14a2917da2ebfa4c1b285_removebg_preview {
             get {
                 object obj = ResourceManager.GetObject("3872baeae3a14a2917da2ebfa4c1b285-removebg-preview", resourceCulture);
@@ -93,6 +94,8 @@ namespace APK_editor_Sigma.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+=======
+>>>>>>> 5ed29d6e18a84676dfaa7559ac4811b33a4ae7b3
         internal static System.Drawing.Bitmap A_black_image {
             get {
                 object obj = ResourceManager.GetObject("A_black_image", resourceCulture);
@@ -113,6 +116,7 @@ namespace APK_editor_Sigma.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap ed44087c405f864aecda5cd26aaf3f41_3084194589667758951_removebg_preview {
             get {
                 object obj = ResourceManager.GetObject("ed44087c405f864aecda5cd26aaf3f41_3084194589667758951-removebg-preview", resourceCulture);
@@ -123,6 +127,8 @@ namespace APK_editor_Sigma.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+=======
+>>>>>>> 5ed29d6e18a84676dfaa7559ac4811b33a4ae7b3
         internal static System.Drawing.Bitmap hmap1 {
             get {
                 object obj = ResourceManager.GetObject("hmap1", resourceCulture);

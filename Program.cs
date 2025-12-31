@@ -16,7 +16,11 @@ namespace APK_editor_Sigma
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+<<<<<<< HEAD
             Application.Run(new App());
+=======
+            Application.Run(new Form1());
+>>>>>>> 5ed29d6e18a84676dfaa7559ac4811b33a4ae7b3
         }
     }
 }

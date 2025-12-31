@@ -8,6 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+<<<<<<< HEAD
 namespace APK_editor_Sigma.Properties {
     
     
@@ -19,6 +20,23 @@ namespace APK_editor_Sigma.Properties {
         
         public static Settings Default {
             get {
+=======
+namespace APK_editor_Sigma.Properties
+{
+
+
+    [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "11.0.0.0")]
+    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase
+    {
+
+        private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
+
+        public static Settings Default
+        {
+            get
+            {
+>>>>>>> 5ed29d6e18a84676dfaa7559ac4811b33a4ae7b3
                 return defaultInstance;
             }
         }

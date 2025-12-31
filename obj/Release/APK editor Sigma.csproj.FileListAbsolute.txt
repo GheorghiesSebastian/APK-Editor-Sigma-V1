@@ -8,8 +8,11 @@ C:\Users\Sebi\source\repos\APK editor Sigma\obj\Release\APK editor Sigma.csproj.
 C:\Users\Sebi\source\repos\APK editor Sigma\obj\Release\APK editor Sigma.csproj.CoreCompileInputs.cache
 C:\Users\Sebi\source\repos\APK editor Sigma\obj\Release\APK editor Sigma.exe
 C:\Users\Sebi\source\repos\APK editor Sigma\obj\Release\APK editor Sigma.pdb
+<<<<<<< HEAD
 C:\Users\Sebi\source\repos\APK editor Sigma\bin\Release\APK editor Sigma.exe.manifest
 C:\Users\Sebi\source\repos\APK editor Sigma\bin\Release\APK editor Sigma.application
 C:\Users\Sebi\source\repos\APK editor Sigma\obj\Release\APK editor Sigma.TrustInfo.xml
 C:\Users\Sebi\source\repos\APK editor Sigma\obj\Release\APK editor Sigma.exe.manifest
 C:\Users\Sebi\source\repos\APK editor Sigma\obj\Release\APK editor Sigma.application
+=======
+>>>>>>> 5ed29d6e18a84676dfaa7559ac4811b33a4ae7b3
